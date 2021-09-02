@@ -1,0 +1,23 @@
+section{
+    margin: 20px auto;
+}
+.heading{
+    width: 90%;
+    padding: 10px;
+    text-align: center;
+    align-items: center;
+    background-color:rgb(39, 39, 39) ;
+    color: white;
+    margin: 10px auto;
+}
+.question{
+    width:  90%;
+    margin: auto;
+    background: rgb(216, 216, 216);
+}
+.para-question{
+    margin: auto;
+    padding: 10px 20px;
+    text-align: center;
+    font-size: 14px;
+}
