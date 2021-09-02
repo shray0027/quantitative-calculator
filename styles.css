@@ -1,23 +1,34 @@
 section{
     margin: 20px auto;
 }
-.heading{
+div{
+    border-radius: 5px;
+}
+.w-90{
     width: 90%;
+}
+.my-20{
+    margin-top:20px;
+}
+.heading{
     padding: 10px;
     text-align: center;
     align-items: center;
     background-color:rgb(39, 39, 39) ;
     color: white;
-    margin: 10px auto;
 }
 .question{
-    width:  90%;
-    margin: auto;
     background: rgb(216, 216, 216);
+    padding: 10px;
+}
+.answer{
+    background: rgb(178, 205, 255);
+    text-align: center;
+    padding: 5px;
 }
 .para-question{
     margin: auto;
-    padding: 10px 20px;
+    padding: 5px 20px;
     text-align: center;
     font-size: 14px;
 }
